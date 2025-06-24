@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-06-23T23:49:48.298894+00:00",
+  "timestamp": "2025-06-24T02:32:01.756509+00:00",
   "channels": [
     {
       "url": "https://t.me/s/ConfigsHubPlus",
@@ -31,11 +31,11 @@
         "total_configs": 66,
         "valid_configs": 32,
         "unique_configs": 32,
-        "avg_response_time": 0.38,
+        "avg_response_time": 0.35,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 86.56,
-        "last_success": "2025-06-23T23:20:25.998013+00:00",
+        "overall_score": 86.6,
+        "last_success": "2025-06-24T02:03:52.710905+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -51,20 +51,20 @@
       "url": "https://t.me/s/Hope_Net",
       "enabled": true,
       "metrics": {
-        "total_configs": 77,
-        "valid_configs": 21,
-        "unique_configs": 21,
-        "avg_response_time": 0.42,
+        "total_configs": 80,
+        "valid_configs": 22,
+        "unique_configs": 22,
+        "avg_response_time": 0.39,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 81.19,
-        "last_success": "2025-06-23T23:20:28.525161+00:00",
+        "overall_score": 81.29,
+        "last_success": "2025-06-24T02:03:55.237758+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 12,
+          "vless://": 14,
           "vmess://": 0,
-          "ss://": 9,
+          "ss://": 8,
           "trojan://": 0,
           "tuic://": 0
         }
@@ -74,7 +74,7 @@
       "url": "https://t.me/s/v2ray_configs_pool",
       "enabled": false,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 13,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -100,11 +100,11 @@
         "total_configs": 82082,
         "valid_configs": 65,
         "unique_configs": 65,
-        "avg_response_time": 0.16,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.78,
-        "last_success": "2025-06-23T23:20:39.058598+00:00",
+        "overall_score": 74.66,
+        "last_success": "2025-06-24T02:04:05.771633+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -123,11 +123,11 @@
         "total_configs": 9409,
         "valid_configs": 68,
         "unique_configs": 68,
-        "avg_response_time": 0.18,
+        "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.91,
-        "last_success": "2025-06-23T23:20:41.444665+00:00",
+        "overall_score": 75.16,
+        "last_success": "2025-06-24T02:04:07.990665+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 1,
@@ -166,7 +166,7 @@
       "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/main/config.txt",
       "enabled": false,
       "metrics": {
-        "total_configs": 2112422,
+        "total_configs": 2044675,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
